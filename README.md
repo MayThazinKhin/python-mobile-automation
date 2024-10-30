@@ -1,6 +1,6 @@
-# Appium Mobile Automation with Facebook App
+# Python Mobile Automation
 
-This project demonstrates how to use Appium for mobile automation on an Android device. The script automates logging into the Facebook app, navigating to the menu, and changing the device orientation.
+This project demonstrates how to do mobile automation in Python using Appium, UiAutomator2 and Celery.
 
 ## Prerequisites
 

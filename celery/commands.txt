@@ -1,0 +1,5 @@
+redis-server
+
+celery -A celery_task worker --loglevel=info
+
+python3 main.py

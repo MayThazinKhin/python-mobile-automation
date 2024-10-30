@@ -1,0 +1,10 @@
+Appium-Python-Client
+
+celery 
+requests 
+sqlalchemy 
+redis
+
+androguard
+
+uiautomator2

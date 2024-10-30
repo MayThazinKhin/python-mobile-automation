@@ -40,7 +40,7 @@ This project demonstrates how to do mobile automation in Python using Appium, Ui
     ```
 5. **Start the Redis Server:**
 
-    Ensure that the Appium server is running. You can start it from the command line using:
+    Ensure that the redis server is running. You can start it from the command line using:
 
     ```bash
     redis-server

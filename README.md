@@ -45,3 +45,11 @@ This project demonstrates how to use Appium for mobile automation on an Android 
     ```bash
     redis-server
     ```
+
+5. **Test each scripts:**
+
+- uiautomator2 folder
+- celery folder
+- manage-proxies.py
+- inspect-apk.py
+- appium folder

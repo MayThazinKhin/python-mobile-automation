@@ -92,14 +92,14 @@ def main():
         "com.instagram.android:id/feed_tab"
     ]
     
-    # for tab_id in tab_ids:
-    #     navigate_to_tab(device, tab_id)
-    # time.sleep(1)
+    for tab_id in tab_ids:
+        navigate_to_tab(device, tab_id)
+    time.sleep(1)
     
     # Retrieve the username from the first IG Story
-    # get_story_username(device)
+    get_story_username(device)
 
-    print_current_activity(device)
+    # print_current_activity(device)
     
     # Stop the app
     stop_app(device, package_name)
